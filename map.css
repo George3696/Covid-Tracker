@@ -1,0 +1,25 @@
+.map{
+    height: 450px;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 20px;
+    margin-top: 16px;
+    box-shadow: 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+
+ .map__leaflet {
+    height: 100% ;
+    width: 100% ;
+}
+
+.info-flag img {
+    width: 100px ;
+    border-radius: 5px ;
+}
+
+.info-flag{
+    height: 80px;
+    width: 100%;
+    background-size: cover ;
+    border-radius: 10px;
+}
